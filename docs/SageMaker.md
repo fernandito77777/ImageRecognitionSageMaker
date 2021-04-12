@@ -42,7 +42,14 @@ you will get the display like this.
 
 **NOTE** 
 1. Don't forget to change the BUCKET_NAME variable to your S3 bucket name.
-2. Rename your Model once you deploy your model
+    ![](../images/SageMaker/Note1.png)
+
+2. Rename your endpoint_name on the console ()
+    ![](../images/SageMaker/Note2-1.png)
+
+    ![](../images/SageMaker/Note2-2.png)
+
 3. Clean your endpoint and model once you are done.
+    ![](../images/SageMaker/Note3.png)
 
 [BACK TO WORKSHOP GUIDE](../README.md)
