@@ -40,5 +40,6 @@ It will open the JupyterLab page.
 you will get the display like this.
     ![](../images/SageMaker/14.png)
 
+*PLEASE NOTE* Don't forget to change the BUCKET_NAME variable to your S3 bucket name.
 
 [BACK TO WORKSHOP GUIDE](../README.md)
