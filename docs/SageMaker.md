@@ -40,6 +40,9 @@ It will open the JupyterLab page.
 you will get the display like this.
     ![](../images/SageMaker/14.png)
 
-*PLEASE NOTE* Don't forget to change the BUCKET_NAME variable to your S3 bucket name.
+**NOTE** 
+1. Don't forget to change the BUCKET_NAME variable to your S3 bucket name.
+2. Rename your Model once you deploy your model
+3. Clean your endpoint and model once you are done.
 
 [BACK TO WORKSHOP GUIDE](../README.md)
